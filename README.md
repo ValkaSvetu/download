@@ -6,16 +6,13 @@ V této repository si můžete stáhnout první verzi našeho beta launcheru, kt
 najdete [tu](https://github.com/ValkaSvetu/download/releases). <br>
 Chceme, abyste si i vy mohli vyzkoušet náš launcher.
 
-### Můžu kontributovat změny.
+### Můžu kontributovat změny?
 
-V tuto chvíli se zatím kontribuce nepříjmají, protože .jar
+V tuto chvíli se zatím kontribuce nepříjmají, protože .jar soubor je již
+kompilovaný.
 
-### When do we accept a pull-request?
+### Kdy bude k dispozici hlavní public verze?
 
-We do not want to decide which pull-request will be accepted and which not.<br>
-We want to let the community discuss and agree on the majority or on the best solution.
-We will accept it after a while if there is nothing to discuss.
-
-### When will my changes apply?
-
-We sync the database to LABYnet once a week. So it will take some time for the badges to update.
+To, kdy bude hra vydána zatím nikdo nemůže říci se 100% jistotou. Proto ti
+doporučuji, aby jsi se připojil na náš [Discord server](https://discord.gg/fYW9NhF8SJ), kde oznamujeme
+vše, co se týka hry a jejího vydaní.
