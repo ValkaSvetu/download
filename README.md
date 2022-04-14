@@ -1,4 +1,4 @@
-![badge](.github/assets/logo.png)
+![Obrázek](.github/assets/title.png)
 
 ### Úvod
 
